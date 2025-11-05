@@ -1,0 +1,29 @@
+[colors]
+ansi = ['#000000',
+        '#fe5151',
+        "#69efad",
+        '#ffd640',
+        "#40c3fe",
+        "#fe3f80",
+        "#64fcda",
+        '#eceef0', 
+        ]
+brights = [ "#b0bdc4",
+            "#fe897f",
+            "#b9f5c9",
+            "#ffe47e",
+            "#80d7fe",
+            "#fe7faa",
+            "#a7fdeb",
+            "#fffefe",
+            ]
+foreground = '#eceef0'
+background = '#000000'
+cursor_fg = '#000000'
+cursor_bg = '#eceef0'
+cursor_border ='#eceef0'
+selection_fg = "#ffffff"
+selection_bg = "#005bbb"
+	
+[metadata]
+name = "mycolor"
